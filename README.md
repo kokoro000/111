@@ -1,5 +1,4 @@
  
-<img width="1440" height="900" alt="Image" src="https://github.com/user-attachments/assets/58517220-ca17-45bb-be80-2c7f387d1921" />
 > 在 [https://kokoro000.github.io/111/](https://kokoro000.github.io/111/) 打開此頁面
 
 ## 作為擴充功能使用
